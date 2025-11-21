@@ -1,4 +1,4 @@
-# 🌾 AgriSenseAI
+# 🌾 AgriSyne
 
 A smart agricultural web platform that allows farmers to:
 - Visualize their farms and fields
@@ -21,27 +21,6 @@ This project uses a **Fullstack MVC (Model–View–Controller)** pattern built 
 - **Tailwind CSS** → for clean, fast UI styling
 - **NextAuth.js** → for authentication & session management
 - **Recharts / Leaflet** → for data visualization (charts, maps)
-
-## 🚀 Getting Started
-
-1. **Install dependencies:**
-   ```bash
-   npm install
-   ```
-
-2. **Set up environment variables:**
-   ```bash
-   cp .env.example .env
-   ```
-   Edit `.env` and add your MongoDB URI and other credentials.
-
-3. **Run the development server:**
-   ```bash
-   npm run dev
-   ```
-
-4. **Open your browser:**
-   Navigate to [http://localhost:3000](http://localhost:3000)
 
 ## 📁 Project Structure
 
