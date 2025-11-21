@@ -141,7 +141,7 @@ export default function ProblemSection() {
           </div>
           <h2 
             id="problem-section-title"
-            className="text-3xl sm:text-4xl md:text-5xl lg:text-7xl font-heading font-medium text-midnight-mirage leading-tight"
+            className="text-3xl sm:text-4xl md:text-5xl lg:text-7xl font-heading font-bold text-midnight-mirage leading-tight"
           >
             <span className="gradient-text-blue">Real-World</span> <span className="gradient-text-blue">Farm Challenges</span>
           </h2>

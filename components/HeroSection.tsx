@@ -28,8 +28,8 @@ export default function HeroSection() {
             
             {/* Title */}
             <h1 className="text-[2.5rem] sm:text-[3rem] md:text-[3.5rem] lg:text-[5rem] xl:text-[5.5rem] font-advent-pro font-regular text-praxeti-white animate-slide-up animate-delay-100 drop-shadow-2xl leading-none mt-2">
-              <span className="text-praxeti-white drop-shadow-2xl block -ml-10">
-                <span className="font-corinthia text-[6rem] sm:text-[7rem] md:text-[8rem] lg:text-[11rem] xl:text-[14rem] font-medium uppercase">S</span><span className="font-advent-pro uppercase font-medium">marter</span>
+              <span className="text-praxeti-white drop-shadow-2xl block -ml-12">
+                <span className="font-corinthia text-[6rem] sm:text-[7rem] md:text-[8rem] lg:text-[11rem] xl:text-[14rem] font-medium uppercase">S</span><span className="font-advent-pro uppercase font-semibold">marter</span>
                 <span className="font-corinthia text-[6rem] sm:text-[7rem] md:text-[8rem] lg:text-[11rem] xl:text-[14rem] font-medium uppercase ml-3">F</span><span className="font-advent-pro uppercase font-medium">arms.</span>
               </span>
               <span className="text-praxeti-white drop-shadow-2xl block -mt-10 sm:-mt-12 md:-mt-14 lg:-mt-16 whitespace-nowrap -ml-28">

@@ -6,7 +6,9 @@ import LandingNavigation from '@/components/Navigation';
 import LandingHeroSection from '@/components/HeroSection';
 import ProblemSection from '@/components/ProblemSection';
 import FeaturesSection from '@/components/FeaturesSection';
-import { BenefitsSection, FAQSection, CTASection } from '@/components/LandingSections';
+import AgriTechDemo from '@/components/AgriTechDemo';
+import { FAQSection, CTASection } from '@/components/LandingSections';
+import { BenefitsSection } from '@/components/BenefitsSection';
 import HowItWorksSection from '@/components/HowItWorksSection';
 import AcademicCredibilitySection from '@/components/AcademicCredibilitySection';
 import SectionDivider from '@/components/SectionDivider';
@@ -33,6 +35,10 @@ export default function HomePage() {
       <SectionDivider variant="green-gradient" />
 
       <FeaturesSection />
+
+      <SectionDivider variant="blue-gradient" />
+
+      <AgriTechDemo />
 
       <SectionDivider variant="blue-gradient" />
 
@@ -79,7 +85,7 @@ export default function HomePage() {
             </div>
           </div>
           <div className="border-t border-gray-800 pt-8 flex flex-col md:flex-row justify-between items-center text-gray-400 text-sm">
-            <p>&copy; 2024 AgriSenseAI. All rights reserved.</p>
+            <p>&copy; 2025 AgriSenseAI. All rights reserved.</p>
             <div className="flex space-x-6 mt-4 md:mt-0">
               <a href="#" className="hover:text-accent-400 transition-colors">Twitter</a>
               <a href="#" className="hover:text-accent-400 transition-colors">LinkedIn</a>

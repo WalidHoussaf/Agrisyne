@@ -164,7 +164,7 @@ export default function AcademicCredibilitySection() {
           isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-6'
         }`}
       >
-        <h2 className="text-3xl sm:text-4xl lg:text-7xl font-heading font-medium text-midnight-mirage leading-tight mb-4 sm:mb-5 text-center ">
+        <h2 className="text-3xl sm:text-4xl lg:text-7xl font-heading font-bold text-midnight-mirage leading-tight mb-4 sm:mb-5 text-center ">
           <span className="gradient-text-blue">Backed by Research</span> & <span className="gradient-text-blue">Modern Technology</span>
         </h2>
       </div>

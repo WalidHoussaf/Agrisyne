@@ -143,7 +143,7 @@ export default function HowItWorksSection() {
           isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-6'
         }`}
         style={{ transitionDelay: '150ms' }}>
-          <h2 className="text-3xl sm:text-4xl lg:text-7xl font-heading font-medium bg-clip-text text-transparent bg-gradient-to-r from-praxeti-white to-lime-accent leading-tight mb-4 sm:mb-5">
+          <h2 className="text-4xl sm:text-5xl lg:text-7xl font-heading font-bold bg-clip-text text-transparent bg-gradient-to-r from-praxeti-white to-lime-accent leading-tight mb-4 sm:mb-5">
             Start in Just Four Steps
           </h2>
         </div>

@@ -61,4 +61,3 @@ React components and pages in `/app/` and `/components/` for the user interface.
 - **Auth:** NextAuth.js
 - **Visualization:** Recharts, Leaflet
 - **Icons:** Lucide React
-
