@@ -8,6 +8,12 @@ A smart agricultural web platform that allows farmers to:
 
 ## 🧭 Architectural Overview
 
+## 📄 License
+
+Copyright (c) 2025 Walid Houssaf. All rights reserved.
+
+This project and its contents are protected by copyright law. No part of this project may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the copyright owner.
+
 This project uses a **Fullstack MVC (Model–View–Controller)** pattern built entirely inside Next.js:
 
 - **Next.js App & API Routes** → for both frontend pages and backend endpoints
@@ -77,6 +83,3 @@ React components and pages in `/app/` and `/components/` for the user interface.
 - **Visualization:** Recharts, Leaflet
 - **Icons:** Lucide React
 
-## 📝 License
-
-MIT
